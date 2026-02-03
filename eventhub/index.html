@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>EventHub</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tickets.css">
 </head>
 <body>
 
@@ -16,9 +17,9 @@
     <ul>
         <li><a href="index.html">Start</a></li>
         <li><a href="pages/tickets.html">Tickets</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Über uns</a></li>
-        <li><a href="#">Kontakt</a></li>
+        <li><a href="pages/events.html">Events</a></li>
+        <li><a href="pages/about.html">Über uns</a></li>
+        <li><a href="pages/contact.html">Kontakt</a></li>
     </ul>
 </nav>
 
@@ -32,59 +33,58 @@
         </p>
     </section>
 
-    <section>
+    <!-- Index-Events Container mit Klasse -->
+    <section class="index-events">
         <h2>Beliebte Events</h2>
 
-        <article>
-            <h3>Sommerfest 2026</h3>
-            <p>📍 Basel</p>
-            <p>📅 12. Juni 2026</p>
-            <p>
-                Ein grosses Sommerfest mit Musik, Essen und guter Stimmung für die ganze Familie.
-            </p>
+        <!-- Event 1 -->
+        <article class="event">
+            <div class="event-text">
+                <h3>Sommerfest 2026</h3>
+                <p>📍 Basel</p>
+                <p>📅 12. Juni 2026</p>
+                <p>🎟️ CHF 25.–</p>
+                <p>
+                    Das Sommerfest am Rhein bietet Open-Air-Stimmung mit mehreren Bühnen, Essensständen und einem großen Freizeitbereich für Familien und Freunde.
+                </p>
+            </div>
+            <div class="event-image">
+                <img src="images/sommerfest.jpg" alt="Sommerfest Anlage">
+            </div>
         </article>
 
-        <article>
-            <h3>Open-Air Konzert</h3>
-            <p>📍 Zürich</p>
-            <p>📅 25. Juli 2026</p>
-            <p>
-                Geniesse Live-Musik unter freiem Himmel mit bekannten Schweizer Bands.
-            </p>
+        <!-- Event 2 -->
+        <article class="event">
+            <div class="event-text">
+                <h3>Open-Air Konzert</h3>
+                <p>📍 Zürich</p>
+                <p>📅 20. Juni 2026</p>
+                <p>🎟️ CHF 40.–</p>
+                <p>
+                    Erleben Sie ein unvergessliches Open-Air Konzert mit einer riesigen Bühne, Stehplätzen und Live-Acts verschiedener Musikrichtungen unter freiem Himmel.
+                </p>
+            </div>
+            <div class="event-image">
+                <img src="images/konzert.jpg" alt="Open-Air Konzert Anlage">
+            </div>
         </article>
 
-        <article>
-            <h3>Food Festival</h3>
-            <p>📍 Bern</p>
-            <p>📅 5. August 2026</p>
-            <p>
-                Entdecke Streetfood aus aller Welt und probiere neue Spezialitäten.
-            </p>
+        <!-- Event 3 -->
+        <article class="event">
+            <div class="event-text">
+                <h3>Food Festival</h3>
+                <p>📍 Bern</p>
+                <p>📅 5. Juli 2026</p>
+                <p>🎟️ CHF 15.–</p>
+                <p>
+                    Urbanes Festival mit einer großen Auswahl an internationalen Food-Ständen, gemütlichen Sitzgelegenheiten und Unterhaltungsangeboten für alle Altersgruppen.
+                </p>
+            </div>
+            <div class="event-image">
+                <img src="images/foodfestival.jpg" alt="Food Festival Anlage">
+            </div>
         </article>
 
-    </section>
-
-    <section>
-        <h2>Tickets</h2>
-        <p>
-            Sichere dir jetzt Tickets für unsere Events.
-            Die Bestellung ist fiktiv und dient nur zur Demonstration.
-        </p>
-
-        <ul>
-            <li>
-                Sommerfest 2026 –
-                <a href="pages/tickets.html">Tickets bestellen</a>
-            </li>
-            <li>
-                Open-Air Konzert –
-                <a href="pages/tickets.html">Tickets bestellen</a>
-            </li>
-            <li>
-                Food Festival –
-                <a href="pages/tickets.html">Tickets bestellen</a>
-            </li>
-        </ul>
     </section>
 
     <section>
