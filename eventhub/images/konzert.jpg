@@ -1,0 +1,282 @@
+<!doctype html>
+<html class="verein-site organisation-details-site" 
+	  xmlns:og="http://opengraphprotocol.org/schema/" 
+	  xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<title>Stadion Letzigrund Zürich - Mitglieder - Verein - Swiss Stadia and Arena</title>
+
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta charset="utf-8">
+
+		<meta name="author" content="Verein Schweizer Stadion- und Arenabetreiber" />
+		<meta name="publisher" content="skipp communications AG" />
+		<meta name="company" content="Verein Schweizer Stadion- und Arenabetreiber" />
+		<meta name="copyright" content="Copyright © 2016 skipp communications AG. All Rights Reserved." />
+
+		<meta name="keywords" content="VSSA, Verein, Stadionbetreiber, Arenabetreiber, Schweiz, Stadion, Arena, Sportstadion, Multifunktionsarena, Eventarena, Stadion Letzigrund Zürich, Stadion Letzigrund / Sportamt Stadt Zürich" />
+		<meta name="description" content="Das Stadion Letzigrund ist ein st&amp;auml;dtisches Stadion und bezeichnet sich als Event- und Leichtathletikstadion.Das Stadion beherbergt die Heimspiele des Fussballclub Z&amp;uuml;rich und Grasshopper-Club Z&amp;uuml;rich, das Weltklasse Meeting und Open-Air-Konzerte. Zudem finden die verschiedensten Corporate Events statt. Mit einem Fassungsverm&amp;ouml;g" />
+
+		<meta name="content-language" content="de" />
+		<meta name="language" content="deutsch,deutsch-schweiz" />
+
+		<meta name="robots" content="index,follow" />
+		<meta name="googlebot" content="index,follow" />
+
+		<!-- Facebook Meta Data -->
+		<meta property="og:title" content="Stadion Letzigrund Zürich - Mitglieder - Verein - VSSA"/>
+		<meta property="og:description" content="Das Stadion Letzigrund ist ein st&amp;auml;dtisches Stadion und bezeichnet sich als Event- und Leichtathletikstadion.Das Stadion beherbergt die Heimspiele des Fussballclub Z&amp;uuml;rich und Grasshopper-Club Z&amp;uuml;rich, das Weltklasse Meeting und Open-Air-Konzerte. Zudem finden die verschiedensten Corporate Events statt. Mit einem Fassungsverm&amp;ouml;g" />
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="https://vssa.ch/verein/mitglieder/1/stadion-letzigrund-zuerich"/>
+						<meta property="og:image" content="https://vssa.ch/media/uploads/organisations/1/headerimage/letzigrund-header.jpg"/>
+				<meta property="og:site_name" content="Verein Schweizer Stadion- und Arenabetreiber"/>
+
+		<!-- Viewport -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+		<base href="https://vssa.ch/" />
+
+		<!-- Favicons -->
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#b71110">
+		<meta name="apple-mobile-web-app-title" content="VSSA">
+		<meta name="application-name" content="VSSA">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<!-- CSS -->
+		<link rel="stylesheet" type="text/css" href="themes/default/css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="themes/default/css/error.css?rev=1.0.4" />
+		<link rel="stylesheet" type="text/css" href="themes/default/css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="themes/default/css/grid-self.css">
+
+		<!--JavaScript-->
+		<script type="text/javascript" src="themes/default/libs/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="themes/default/libs/jquery-migrate-1.2.1.min.js"></script>
+		<script type="text/javascript" src="themes/default/libs/jquery.isMobile.js"></script>
+		<script type="text/javascript" src="themes/default/libs/modernizr-2.8.1.min.js"></script>
+		<script type="text/javascript" src="themes/default/libs/custom/misc.js?rev=1.0.4"></script>
+		<script type="text/javascript" src="themes/default/libs/jquery.nicescroll.min.js"></script>
+		
+		<!-- jQuery UI -->
+		<script type="text/javascript" src="themes/default/libs/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="themes/default/libs/jquery-ui-1.12.1/jquery-ui.min.css">
+		<link rel="stylesheet" type="text/css" href="themes/default/libs/jquery-ui-1.12.1/jquery-ui.structure.min.css">
+		<link rel="stylesheet" type="text/css" href="themes/default/libs/jquery-ui-1.12.1/jquery-ui.theme.min.css">
+
+		<!--[if lt IE 10]>
+			<script type="text/javascript" src="themes/default/libs/ie10.js"></script>
+		<![endif]-->
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="themes/default/libs/ie9.js"></script>
+			<script type="text/javascript" src="themes/default/libs/respond.min.js"></script>
+			<script type="text/javascript" src="themes/default/libs/svgeezy.min.js"></script>
+			<script>$(function() { svgeezy.init(false, 'png'); });</script>
+		<![endif]-->
+
+		<!-- Mobile Menü -->
+		<script type="text/javascript" src="themes/default/libs/jquery.meanmenu.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="themes/default/css/meanmenu.css?rev=1.0.4" />
+
+		<!-- FancyBox -->
+		<link rel="stylesheet" type="text/css" href="themes/default/libs/fancybox/jquery.fancybox.css">
+		<script src="themes/default/libs/fancybox/jquery.fancybox.pack.js"></script>
+		<script src="themes/default/libs/fancybox/helpers/jquery.fancybox-media.js"></script>
+
+		<!-- Royal Slider -->
+		<script src="themes/default/libs/royalslider/jquery.royalslider.min.js"></script>
+		<script src="themes/default/libs/royalslider/jquery.easing-1.3.js"></script>
+		<link href="themes/default/libs/royalslider/royalslider.css" rel="stylesheet" />
+		<link href="themes/default/libs/royalslider/skins/default/rs-default.css" rel="stylesheet" />
+
+		<link rel="stylesheet" type="text/css" href="themes/default/css/style.css?rev=1.0.4" />
+		<script type="text/javascript" src="themes/default/js/script.js?rev=1.0.4"></script>
+		
+		<!-- Google reCAPTCHA -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		
+				<!-- GoogleAnalytics -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-HM9P3FK577"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-HM9P3FK577', { 'anonymize_ip': true });
+		</script>
+		
+
+	</head>
+
+	<body>
+		<header>
+			<div class="logo-nav">
+				<div class="content-block-center">
+					<div id="logo"><a href="." title="Startseite"><img src="themes/default/img/layout/logo.png" /></a></div>
+					<nav class="main-nav">
+						<ul>
+							<li><a href="" title="Home" >Home</a></li>
+							<li><a href="verein" title="Verein" class="active">Verein</a>
+								<ul class="phone-on">
+									<li><a href="verein/vorstand" title="Vorstand" >Vorstand</a></li>
+									<li><a href="verein/mitglieder" title="Mitglieder" class="active">Mitglieder</a></li>
+									<li><a href="verein/mitglied-werden" title="Mitglied werden" >Mitglied werden</a></li>
+									<li><a href="verein/vssa-vernetzt" title="VSSA vernetzt" >VSSA vernetzt</a></li>
+								</ul>
+							</li>
+							<li><a href="partner" title="Partner" >Partner</a>
+								<ul class="phone-on">
+									<li><a href="partner/kommerzielle-partner" title="Kommerzielle Partner" >Kommerzielle Partner</a></li>
+									<li><a href="partner/partner-werden" title="Partner werden" >Partner werden</a></li>
+								</ul>
+							</li>
+							<li><a href="aktuelles" title="Aktuelles" >Aktuelles</a>
+								<ul class="phone-on">
+									<li><a href="aktuelles/termine" title="Termine" >Termine</a></li>
+									<li><a href="aktuelles/medienmitteilungen" title="Medienmitteilungen" >Medienmitteilungen</a></li>
+									<li><a href="aktuelles/newsletter" title="Newsletter" >Newsletter</a></li>
+									<li><a href="aktuelles/jobangebote" title="Jobangebote" >Jobangebote</a></li>
+								</ul>
+							</li>
+							<li><a href="service" title="Service" >Service</a>
+								<ul class="phone-on">
+									<li><a href="service/downloads" title="Downloads" >Downloads</a></li>
+									<li><a href="service/links" title="Links" >Links</a></li>
+								</ul>
+							</li>
+							<li><a href="intern" title="Login" >Login</a>
+															</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<div class="content-block-center">
+				<div class="suche">
+					<h2>Stadion/Arena Suchen</h2>
+					<input id="organisation-search" type="text" placeholder="Suchen..."/>
+				</div>
+			</div>
+			<div class="big-img">	<img src="media/uploads/organisations/1/headerimage/letzigrund-header.jpg?c=16x5&w=1920" class="full" />
+</div>
+			<div class="content-block-center ct-sub-nav phone-off">
+				<nav class="sub-nav">
+					<ul>
+	<li><a href="verein/vorstand" title="Vorstand" >Vorstand</a></li>
+	<li><a href="verein/mitglieder" title="Mitglieder" class="active">Mitglieder</a></li>
+	<li><a href="verein/mitglied-werden" title="Mitglied werden" >Mitglied werden</a></li>
+	<li><a href="verein/vssa-vernetzt" title="VSSA vernetzt" >VSSA vernetzt</a></li>
+	<li><a href="verein/allianz" title="Allianz" >Allianz</a></li>
+</ul>				</nav>
+			</div>
+		</header>
+		<section class="content">
+			<div class="content-block-center grid-container">
+				<div class="organisation detail">
+	<h1>Stadion Letzigrund Zürich</h1>
+	<div class="grid-3">
+		<div class="grid-1">
+			<p>Das Stadion Letzigrund ist ein st&auml;dtisches Stadion und bezeichnet sich als Event- und Leichtathletikstadion.</p>
+
+<p>Das Stadion beherbergt die Heimspiele des Fussballclub Z&uuml;rich und Grasshopper-Club Z&uuml;rich, das Weltklasse Meeting und Open-Air-Konzerte. Zudem finden die verschiedensten Corporate Events statt. Mit einem Fassungsverm&ouml;gen von 50&#39;000 Zuschauern bei Konzerten ist das Stadion Letzigrund die gr&ouml;sste Veranstaltungsst&auml;tte der Schweiz.</p>
+			<p><a href="http://www.stadionletzigrund.ch" title="Stadion Letzigrund Zürich" target="_blank">www.stadionletzigrund.ch</a></p>
+		</div>
+		<div class="grid-1">
+			<h2>Fakten &amp; Zahlen</h2>
+			
+			<table>
+				<tbody>
+					<tr>
+						<td>Kapazität (grösster Eventraum)</td>
+						<td>50000</td>
+					</tr>
+					<tr>
+						<td>Anzahl Events pro Jahr (im grössten Eventraum)</td>
+						<td>46</td>
+					</tr>
+					<tr>
+						<td>Anzahl Events (Total)</td>
+						<td>400</td>
+					</tr>
+					<tr>
+						<td>Anzahl Zuschauer/Teilnehmer pro Jahr (im grössten Eventraum)</td>
+						<td>545000</td>
+					</tr>
+					<tr>
+						<td>Anzahl Zuschauer/Teilnehmer pro Jahr (Total)</td>
+						<td>575000</td>
+					</tr>
+					<tr>
+						<td>Anzahl feste Arbeitsplätze (Eigene)</td>
+						<td>18</td>
+					</tr>
+					<tr>
+						<td>Anzahl feste Arbeitsplätze (Drittpartner)</td>
+						<td>33</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			 			 <p>
+							</p>
+		</div>
+		<div class="grid-1 last-grid">
+			
+			<h2>Betreiber</h2>
+						<p><img src="media/uploads/organisations/1/logo/letz-logo-rz01-gr3.jpg?w=200" alt="Logo" title="Logo" class="mitgliederlogo"/></p>
+						<p>Stadion Letzigrund / Sportamt Stadt Zürich<br/>
+				Stadionmanagement<br/>				Badenerstrasse 500<br/>
+				8048 Zürich			</p>
+			<p>
+				+41 44 413 94 94<br/>
+				<a href="mailto:stadionletzigrund@zuerich.ch" title="Mail an " target="_blank">stadionletzigrund@zuerich.ch</a><br/>
+				
+				<a href="http://www.stadionletzigrund.ch" title="" target="_blank">www.stadionletzigrund.ch</a>
+			</p>
+			<h3>Kontakt</h3>
+			<p>
+				Peter Landolt <a href="mailto:peter.landolt@zuerich.ch"><img src="themes/default/img/layout/icon-mail.svg" width="15px" /></a><br>
+				<em>Stadionmanager</em>
+				
+			</p><p>
+				Andreas Bachmann <a href="mailto:andreas.bachmann@zuerich.ch"><img src="themes/default/img/layout/icon-mail.svg" width="15px" /></a><br>
+				<em>Stv. Stadionmanager</em>
+				
+			</p>		</div>
+	</div>
+	<div class="grid-3 bilder">
+									<a href="media/uploads/organisations/1/images/1.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Konzert"><img src="media/uploads/organisations/1/images/1.jpg?w=500&c=4x3" alt="Letzigrund - Konzert" title="Letzigrund - Konzert" class="full" /></a>
+							<a href="media/uploads/organisations/1/images/3.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Loge"><img src="media/uploads/organisations/1/images/3.jpg?w=500&c=4x3" alt="Letzigrund - Loge" title="Letzigrund - Loge" class="full" /></a>
+							<a href="media/uploads/organisations/1/images/letzigrund-zuerich-1.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Aussenansicht"><img src="media/uploads/organisations/1/images/letzigrund-zuerich-1.jpg?w=500&c=4x3" alt="Letzigrund - Aussenansicht" title="Letzigrund - Aussenansicht" class="full" /></a>
+							<a href="media/uploads/organisations/1/images/letzigrund-zuerich-2.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Innenansicht"><img src="media/uploads/organisations/1/images/letzigrund-zuerich-2.jpg?w=500&c=4x3" alt="Letzigrund - Innenansicht" title="Letzigrund - Innenansicht" class="full" /></a>
+							<a href="media/uploads/organisations/1/images/letzigrund-zuerich-3.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Konzert"><img src="media/uploads/organisations/1/images/letzigrund-zuerich-3.jpg?w=500&c=4x3" alt="Letzigrund - Konzert" title="Letzigrund - Konzert" class="full" /></a>
+							<a href="media/uploads/organisations/1/images/letzigrund-zuerich-4.jpg?w=2000" class="fancybox" rel="group" title="Letzigrund - Loge"><img src="media/uploads/organisations/1/images/letzigrund-zuerich-4.jpg?w=500&c=4x3" alt="Letzigrund - Loge" title="Letzigrund - Loge" class="full" /></a>
+						
+	</div>
+</div>			</div>
+		</section>
+
+		<footer>
+			<div class="content-block-center">
+				<a href="service" title="Kontakt" >Kontakt</a>
+				<a href="impressum" title="Impressum" >Impressum</a>
+			</div>
+			<div class="skipp"><a href="https://skipp.ch" title="solution by skipp" target="_blank"><img src="themes/default/img/layout/skipp-anker.svg" alt="solution by skipp" title="solution by skipp" /></a></div>
+		</footer>
+
+			</body>
+</html>
