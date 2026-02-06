@@ -33,6 +33,8 @@
             <p>📅 12. Juni 2026</p>
             <p>🎟️ CHF 25.–</p>
             <p><a href="#event1">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -41,6 +43,8 @@
             <p>📅 25. Juli 2026</p>
             <p>🎟️ CHF 40.–</p>
             <p><a href="#event2">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -49,6 +53,8 @@
             <p>📅 5. August 2026</p>
             <p>🎟️ CHF 15.–</p>
             <p><a href="#event3">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -57,6 +63,8 @@
             <p>📅 18. Juni 2026</p>
             <p>🎟️ CHF 30.–</p>
             <p><a href="#event4">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -65,6 +73,8 @@
             <p>📅 2. Juli 2026</p>
             <p>🎟️ CHF 20.–</p>
             <p><a href="#event5">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -73,6 +83,8 @@
             <p>📅 10. Juli 2026</p>
             <p>🎟️ CHF 12.–</p>
             <p><a href="#event6">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -81,6 +93,8 @@
             <p>📅 22. August 2026</p>
             <p>🎟️ CHF 35.–</p>
             <p><a href="#event7">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -89,6 +103,8 @@
             <p>📅 30. August 2026</p>
             <p>🎟️ Kostenlos</p>
             <p><a href="#event8">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -97,6 +113,8 @@
             <p>📅 5. September 2026</p>
             <p>🎟️ CHF 28.–</p>
             <p><a href="#event9">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
         <article>
@@ -105,6 +123,8 @@
             <p>📅 12. September 2026</p>
             <p>🎟️ CHF 45.–</p>
             <p><a href="#event10">Details anzeigen</a></p>
+            <a href="#ticket-formular" class="btn">🎟️ Tickets bestellen</a>
+
         </article>
 
     </section>
@@ -235,6 +255,65 @@
         <p><a href="#">Schliessen</a></p>
     </div>
 </div>
+
+<section id="ticket-formular">
+    <h2>Ticketbestellung</h2>
+    <p>Bitte füllen Sie das Formular vollständig aus.</p>
+
+    <form action="#bestaetigung">
+        
+        <fieldset>
+            <legend>Persönliche Daten</legend>
+
+            <label for="vorname">Vorname:</label>
+            <input type="text" id="vorname" name="vorname" required>
+
+            <label for="nachname">Nachname:</label>
+            <input type="text" id="nachname" name="nachname" required>
+
+            <label for="email">E-Mail-Adresse:</label>
+            <input type="email" id="email" name="email" required>
+        </fieldset>
+
+        <fieldset>
+            <legend>Ticketinformationen</legend>
+
+            <label for="ticketart">Ticketart:</label>
+            <select id="ticketart" name="ticketart" required>
+                <option value="">Bitte wählen</option>
+                <option value="standard">Standard</option>
+                <option value="vip">VIP</option>
+            </select>
+
+            <label for="anzahl">Anzahl Tickets:</label>
+            <input type="number" id="anzahl" name="anzahl" min="1" max="5" required>
+
+            <label>
+                <input type="checkbox" required>
+                Ich akzeptiere die AGB
+            </label>
+        </fieldset>
+
+        <button type="submit">Bestellung absenden</button>
+    </form>
+</section>
+
+<section id="bestaetigung">
+    <h2>Vielen Dank für Ihre Anmeldung!</h2>
+
+    <p>
+        Danke, dass Sie sich für dieses Event angemeldet haben.
+    </p>
+
+    <p>
+        Leider gibt es keine Tickets für dieses Event, da es sich um ein
+        <strong>fiktives Projekt</strong> handelt.
+    </p>
+
+    <p>
+        Diese Seite dient ausschließlich zu Lern- und Demonstrationszwecken.
+    </p>
+</section>
 
 </body>
 </html>
