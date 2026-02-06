@@ -145,3 +145,36 @@ article {
     color: #007BFF;
     font-weight: bold;
 }
+
+.formular {
+    display: none;
+    padding: 2rem;
+    background: #f5f5f5;
+    margin: 2rem auto;
+    max-width: 900px;
+}
+
+.formular:target {
+    display: block;
+}
+
+fieldset {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+}
+
+label {
+    display: block;
+    margin-top: 0.6rem;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 0.4rem;
+    margin-top: 0.2rem;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.7rem 1.2rem;
+}
