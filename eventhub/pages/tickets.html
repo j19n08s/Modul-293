@@ -136,7 +136,7 @@
     <p>Alle Rechte vorbehalten</p>
 </footer>
 
-<section id="ticket-formular" class="formular">
+<section id="ticket-formular" class="formular" method="post" action="#bestaetigung">
     <h2>Ticketbestellung</h2>
     <p>Bitte füllen Sie das Formular vollständig aus.</p>
 
@@ -190,6 +190,9 @@
                     <option value="andere">Andere</option>
                 </select>
             </fieldset>
+
+            <label for="id">Laden sie ein Bild ihrer Identitätskarte hoch *</label>
+        <input type="file" id="id" name="id" />
         </fieldset>
 
         <fieldset>
